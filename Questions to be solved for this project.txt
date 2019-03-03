@@ -1,0 +1,14 @@
+1.live.html
+表格和缩略语无法预期显示,global.js相关函数:
+stripeTables()；
+highlightRows()；
+displayAbbreviations()；
+2.contact.html
+无法在原页面回馈（Ajax有问题）,global.js相关函数：
+resetFields(whichform)；
+getHTTPObject()；
+displayAjaxLoading(element)；
+submitFormWithAjax(whichform,thetarget)；
+prepareForms()；
+
+
